@@ -4,7 +4,7 @@
 ## Education 
 
 I Studiet 4 year's at A Profesional High School (Technology Information and Communication) In co-op with Cisco , also certified CCAN ,IT Essentials, Google Wireframes and Cyber Deffens ,
-Meta Front End Dev . Currently studing at Softuni (software engineer)
+Meta Front End Dev . "I am currently pursuing software engineering studies at SoftUni."
 
 -  I’m currently working on Traveling Agency Website 
 -  I’m currently learning React and Tailwind
