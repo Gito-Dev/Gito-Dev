@@ -3,9 +3,6 @@
 
 ## About me
 
--  I’m currently working on Traveling Agency Website 
--  I’m currently learning React and Tailwind
--  I’m looking for help with Back end
 
 ##  Reach me
 
