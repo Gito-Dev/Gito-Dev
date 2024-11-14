@@ -3,6 +3,7 @@
 
 ## About me
 <h3 align="center">A passionate frontend developer from Albania 🇦🇱 </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gito-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gito-dev" /> </p>
 
 
 
@@ -35,7 +36,6 @@ Meta Front End Dev .
 </div>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gito-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gito-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gito-dev" alt="gito-dev" /></a> </p>
 
