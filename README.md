@@ -24,7 +24,7 @@ Meta Front End Dev .
 
 ###
 
-<div align="left">
+<div align="center">
 </div>
 
 ###
