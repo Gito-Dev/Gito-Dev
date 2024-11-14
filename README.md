@@ -2,6 +2,7 @@
 ![GITO DEV PNG_Tavola disegno 1](https://github.com/gito-development/gito-development/assets/143014381/2209965a-f9f9-4b1b-99a2-105ac3b32c3a)
 
 ## About me
+<h3 align="center">A passionate frontend developer from Albania 🇦🇱 </h3>
 
 
 ##  Reach me
@@ -33,14 +34,13 @@ Meta Front End Dev .
 </div>
 
 ###
-
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gito-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gito-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gito-dev" alt="gito-dev" /></a> </p>
+
+
+
+
 
 
 
