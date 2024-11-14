@@ -24,8 +24,7 @@ Meta Front End Dev .
 
 
 ###
-<div align="left">
-</div>
+
 
 ###
 <div align="center">
@@ -37,7 +36,7 @@ Meta Front End Dev .
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gito-dev" alt="gito-dev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gito-dev" alt="gito-dev" /></a> </p>
 
 
 
