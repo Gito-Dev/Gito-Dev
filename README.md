@@ -1,5 +1,5 @@
 ![GITO DEV PNG_Tavola disegno 1](https://github.com/gito-development/gito-development/assets/143014381/2209965a-f9f9-4b1b-99a2-105ac3b32c3a)
-### Hi I am gito
+### Hi I am gito 👋
 
 ## About me
 <h3 align="center">A passionate frontend developer from Albania 🇦🇱 </h3>
