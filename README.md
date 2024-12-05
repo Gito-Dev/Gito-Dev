@@ -23,7 +23,7 @@ gitodevelopment@gmail.com
 ## Education 
 
 I Studiet 4 year's at A Profesional High School (Technology Information and Communication) In co-op with Cisco , also certified CCAN ,IT Essentials, Google Wireframes and Cyber Deffens ,
-Meta Front End Dev . 
+Meta Front End Dev. 
 
 
 
