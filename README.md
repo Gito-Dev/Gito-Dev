@@ -5,7 +5,7 @@
 <h3 align="center"> Frontend developer  </h3>
 <h3 align="center"> 20 year's old</h3>
 <h3 align="center"> Albania 🇦🇱 </h3>
-<h3 align="center"> Frontend Dev at HighSkyAi </h3>
+<h3 align="center"> React Frontend Dev</h3>
 
 
 
