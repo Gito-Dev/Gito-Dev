@@ -1,5 +1,5 @@
 ![GITO DEV PNG_Tavola disegno 1](https://github.com/gito-development/gito-development/assets/143014381/2209965a-f9f9-4b1b-99a2-105ac3b32c3a)
-### Hi I am gito 👋! Frontend developer | 21 y/o | Albania 🇦🇱 
+### Hi I am gito | Frontend developer | 21 y/o | Albania 🇦🇱 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gito-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gito-dev" /> </p>
 
 
