@@ -3,7 +3,6 @@
 <h1 align="center"> Hi I am gito | Frontend developer | 21 y/o | Albania 🇦🇱 </h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gito-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gito-dev" /> </p>
 
 
 
