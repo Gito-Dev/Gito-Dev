@@ -19,7 +19,7 @@ https://gito-dev.vercel.app/
 
 ## Education 
 
-Currently studying physics and Computer Science at Universiteti I Tiranes FSHN.
+Currently in University, studying physics and Computer Science at Universiteti I Tiranes FSHN.
 
 I Studiet 4 year's at A Profesional High School (Technology Information and Communication) In co-op with Cisco , also certified CCAN ,IT Essentials, Google Wireframes and Cyber Deffens ,
 Meta Front End Dev. 
